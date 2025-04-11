@@ -44,14 +44,14 @@ project/
 4. The dashboard will be available at http://127.0.0.1:8050/ 
 
 ## Dependencies
- • Dash
- • Plotly
- • Folium
- • Pandas
- • SQLAlchemy
- • Psycopg2
- • PostgreSQL
- • Requests
+- Dash
+- Plotly
+- Folium
+- Pandas
+- SQLAlchemy
+- Psycopg2
+- PostgreSQL
+- Requests
 
 ## ER Diagram
 
