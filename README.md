@@ -31,7 +31,10 @@ project/
 ├── run_dashboard.py      # Entry point: loads data and starts the dashboard
 ├── airports.csv          # Airport metadata with coordinates
 ├── requirements.txt      # Python dependencies
+├── Dockerfile            # Docker configuration
+├── docker-compose.yml    # PostgreSQL + App container setup
 ├── erd.png               # Entity-Relationship Diagram of the database
+└── README.md             # Project description
 
 
 ## How to Run
