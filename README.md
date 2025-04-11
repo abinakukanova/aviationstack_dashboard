@@ -11,7 +11,7 @@ Using data from OpenSky Network and Aviationstack API, this project gathers info
 - Data Collection: 
   - Flight ICAO codes over the Black Sea are obtained via the OpenSky Network.
   - Detailed flight and aircraft information is retrieved using the Aviationstack API.
-  - Geographical coordinates for airports are merged from airports.csv.
+  - Geographical coordinates for airports are merged from `airports.csv`.
 
 - Database:
   - All flight-related data is normalized and stored in a PostgreSQL database.
