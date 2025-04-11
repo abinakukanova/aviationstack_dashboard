@@ -40,7 +40,7 @@ project/
 
 1. Clone the repository.
 2. Add your Aviationstack API keys and your database name in `run_dashboard.py`.
-3. Run `run_dashboard.py` file
+3. Run `run_dashboard.py` 
 4. The dashboard will be available at http://127.0.0.1:8050/ 
 
 ## Dependencies
