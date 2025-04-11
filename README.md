@@ -24,6 +24,7 @@ Using data from OpenSky Network and Aviationstack API, this project gathers info
 
 ## Project Structure
 
+```
 project/
 │
 ├── data_loader.py        # Data collection and loading into the database
@@ -31,10 +32,8 @@ project/
 ├── run_dashboard.py      # Entry point: loads data and starts the dashboard
 ├── airports.csv          # Airport metadata with coordinates
 ├── requirements.txt      # Python dependencies
-├── Dockerfile            # Docker configuration
-├── docker-compose.yml    # PostgreSQL + App container setup
 ├── erd.png               # Entity-Relationship Diagram of the database
-└── README.md             # Project description
+```
 
 
 ## How to Run
